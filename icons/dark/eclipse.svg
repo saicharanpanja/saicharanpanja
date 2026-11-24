@@ -2,13 +2,13 @@
   <defs>
     <filter id="lift">
       <feComponentTransfer>
-        <feFuncR type="linear" slope="1.45" intercept="0.06"/>
-        <feFuncG type="linear" slope="1.45" intercept="0.06"/>
-        <feFuncB type="linear" slope="1.45" intercept="0.06"/>
+        <feFuncR type="linear" slope="1.55" intercept="0.14"/>
+        <feFuncG type="linear" slope="1.55" intercept="0.14"/>
+        <feFuncB type="linear" slope="1.55" intercept="0.14"/>
       </feComponentTransfer>
     </filter>
   </defs>
-  <rect x="2.5" y="2.5" width="59" height="59" rx="14" fill="#161B22" stroke="#30363D" stroke-width="1" />
+  <rect x="2.5" y="2.5" width="59" height="59" rx="14" fill="#21262D" stroke="#363D47" stroke-width="1" />
   <g filter="url(#lift)"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="12" y="12" width="40" height="40" preserveAspectRatio="xMidYMid meet">
     <defs>
         <linearGradient id="a" gradientUnits="userSpaceOnUse" x1=".5" y1="10.894" x2=".5" y2="-1.595" gradientTransform="matrix(76.53125 0 0 6.78125 32.176 54.11)">
