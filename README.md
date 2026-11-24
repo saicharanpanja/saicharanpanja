@@ -1,4 +1,29 @@
-### Learning:
+<sub>Currently working on <a href="https://github.com/saicharanpanja/CampusPath">CampusPath</a> - multi-floor indoor navigation for LMU Munich in Rust &amp; WebAssembly.</sub>
+
+### Languages & Frameworks:
+<p align="left">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/rust.svg" /><img src="./icons/light/rust.svg" alt="Rust" title="Rust" width="44" height="44" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/haskell.svg" /><img src="./icons/light/haskell.svg" alt="Haskell" title="Haskell" width="44" height="44" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/java.svg" /><img src="./icons/light/java.svg" alt="Java" title="Java" width="44" height="44" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/react.svg" /><img src="./icons/light/react.svg" alt="React" title="React" width="44" height="44" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/javascript.svg" /><img src="./icons/light/javascript.svg" alt="JavaScript" title="JavaScript" width="44" height="44" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/css3.svg" /><img src="./icons/light/css3.svg" alt="CSS3" title="CSS3" width="44" height="44" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/html5.svg" /><img src="./icons/light/html5.svg" alt="HTML5" title="HTML5" width="44" height="44" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/python.svg" /><img src="./icons/light/python.svg" alt="Python" title="Python" width="44" height="44" /></picture>
+</p>
+
+
+### Tools & Platforms:
+<p align="left">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/vscode.svg" /><img src="./icons/light/vscode.svg" alt="VS Code" title="VS Code" width="44" height="44" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/github.svg" /><img src="./icons/light/github.svg" alt="GitHub" title="GitHub" width="44" height="44" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/git.svg" /><img src="./icons/light/git.svg" alt="Git" title="Git" width="44" height="44" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/eclipse.svg" /><img src="./icons/light/eclipse.svg" alt="Eclipse IDE" title="Eclipse IDE" width="44" height="44" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/azure.svg" /><img src="./icons/light/azure.svg" alt="Azure" title="Azure" width="44" height="44" /></picture>
+</p>
+
+
+### Exploring:
 <p align="left">
   <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/docker.svg" /><img src="./icons/light/docker.svg" alt="Docker" title="Docker" width="44" height="44" /></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/kubernetes.svg" /><img src="./icons/light/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="44" height="44" /></picture>
@@ -16,28 +41,3 @@
   -->
 </p>
 
----
-
-### Languages:
-<p align="left">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/rust.svg" /><img src="./icons/light/rust.svg" alt="Rust" title="Rust" width="44" height="44" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/haskell.svg" /><img src="./icons/light/haskell.svg" alt="Haskell" title="Haskell" width="44" height="44" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/java.svg" /><img src="./icons/light/java.svg" alt="Java" title="Java" width="44" height="44" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/react.svg" /><img src="./icons/light/react.svg" alt="React" title="React" width="44" height="44" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/javascript.svg" /><img src="./icons/light/javascript.svg" alt="JavaScript" title="JavaScript" width="44" height="44" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/css3.svg" /><img src="./icons/light/css3.svg" alt="CSS3" title="CSS3" width="44" height="44" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/html5.svg" /><img src="./icons/light/html5.svg" alt="HTML5" title="HTML5" width="44" height="44" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/python.svg" /><img src="./icons/light/python.svg" alt="Python" title="Python" width="44" height="44" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/json.svg" /><img src="./icons/light/json.svg" alt="JSON" title="JSON" width="44" height="44" /></picture>
-</p>
-
----
-
-### Technologies:
-<p align="left">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/vscode.svg" /><img src="./icons/light/vscode.svg" alt="VS Code" title="VS Code" width="44" height="44" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/github.svg" /><img src="./icons/light/github.svg" alt="GitHub" title="GitHub" width="44" height="44" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/git.svg" /><img src="./icons/light/git.svg" alt="Git" title="Git" width="44" height="44" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/eclipse.svg" /><img src="./icons/light/eclipse.svg" alt="Eclipse IDE" title="Eclipse IDE" width="44" height="44" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./icons/dark/azure.svg" /><img src="./icons/light/azure.svg" alt="Azure" title="Azure" width="44" height="44" /></picture>
-</p>
