@@ -2,9 +2,9 @@
   <defs>
     <filter id="lift">
       <feComponentTransfer>
-        <feFuncR type="linear" slope="1.55" intercept="0.14"/>
-        <feFuncG type="linear" slope="1.55" intercept="0.14"/>
-        <feFuncB type="linear" slope="1.55" intercept="0.14"/>
+        <feFuncR type="linear" slope="1.55" intercept="0.06"/>
+        <feFuncG type="linear" slope="1.55" intercept="0.06"/>
+        <feFuncB type="linear" slope="1.55" intercept="0.06"/>
       </feComponentTransfer>
     </filter>
   </defs>
